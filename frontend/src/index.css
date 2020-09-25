@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Baloo Thambi 2', cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Global Styles */
+.color-primary{
+  color: #6952a7 !important
+}
+.is-primary{
+  background-color: #6952a7 !important;
+}
